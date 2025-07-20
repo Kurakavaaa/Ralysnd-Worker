@@ -1,0 +1,6 @@
+name = "ralysnd-worker"
+main = "index.js"
+compatibility_date = "2025-07-20"
+[vars]
+UUID = "3ed91cef-a105-4d34-8094-4cfb85498a96"
+PROXYIP = "chigaago.v6.navy"
